@@ -2,16 +2,16 @@
 
 import matplotlib.pyplot as plt
 
-# categories=['python','java','c++']
-# values=[15,10,25]
+categories=['python','java','c++']
+values=[15,10,25]
 
-# plt.bar(categories,values)
+plt.bar(categories,values)
 # # syntax 
 #         # x → categories on X-axis
 #         # height → values/heights of bars
-# #plt.bar(x, height)
+plt.bar(x, height)
 
-# plt.show()
+plt.show()
 
 # HORIZONTAL BAR CHART
 categories=['python','java','c++']
