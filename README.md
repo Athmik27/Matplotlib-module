@@ -1833,43 +1833,12 @@ Transforms
 
 ---
 
-# 62. Matplotlib Mental Map
 
-```text
-                    MATPLOTLIB
-                        |
-        ┌───────────────┼────────────────┐
-        ↓               ↓                ↓
-     Trends         Comparison       Distribution
-        |               |                |
-     plot()          bar()            hist()
-     line            barh()           boxplot()
-                                     
-        └───────────────┬────────────────┘
-                        ↓
-                 Relationship
-                        |
-                    scatter()
-                        |
-                        ↓
-                 Customization
-                        |
-       ┌────────────────┼────────────────┐
-       ↓                ↓                ↓
-     title            labels           legend
-     grid             ticks            limits
-                        |
-                        ↓
-                    Output
-                        |
-              ┌─────────┴─────────┐
-              ↓                   ↓
-         savefig()              show()
 ```
 
 ---
 
-# 63. Final Quick Revision
+#  Final Quick Revision
 
 Before an interview, remember:
 
@@ -1984,7 +1953,7 @@ plt.show()
 
 ---
 
-# 64. Final Matplotlib Checklist
+#  Final Matplotlib Checklist
 
 Before moving to advanced visualization, make sure you can explain and use:
 
