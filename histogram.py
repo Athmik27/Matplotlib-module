@@ -8,16 +8,16 @@ import numpy as np
 # scale=10	Standard deviation = 10
 # size=10	Generate 10 numbers
 
-# plt.hist(scores)
-# plt.show()
+plt.hist(scores)
+plt.show()
 
 #clip() method
 #clip = set a limit/range.
 
-# scores=np.random.normal(loc=15,scale=10,size=10)
+scores=np.random.normal(loc=15,scale=10,size=10)
 
-# plt.hist(scores)
-# scores = np.clip(scores,0,100)
+plt.hist(scores)
+scores = np.clip(scores,0,100)
 # plt.show()
 
 #np.clip(array, minimum, maximum) 
