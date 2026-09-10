@@ -1,4 +1,4 @@
-#  Matplotlib Module – Quick Revision
+#  Matplotlib Module 
 
 Matplotlib is a Python library used for **data visualization and plotting graphs**.
 
