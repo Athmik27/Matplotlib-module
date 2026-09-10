@@ -237,6 +237,7 @@ Change number of bins:
 
 ```python
 plt.hist(marks, bins=5)
+# bins=5 tells Matplotlib to divide the data range into 5 intervals and count how many values fall into each interval
 ```
 
 ---
